@@ -45,6 +45,16 @@
 
 </details>
 
+---
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
 [youtube]: https://youtu.be/_dh2rAre9ew
 [instagram]: https://instagram.com/__ronak.18?igshid=1fap5j73wublf
 [linkedin]: https://www.linkedin.com/in/ronak-asnani-40bb311a6
