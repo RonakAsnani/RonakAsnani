@@ -36,6 +36,15 @@
 <br>
 <br>
 
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.RonakAsnani.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+</details>
+
 [youtube]: https://youtu.be/_dh2rAre9ew
 [instagram]: https://instagram.com/__ronak.18?igshid=1fap5j73wublf
 [linkedin]: https://www.linkedin.com/in/ronak-asnani-40bb311a6
