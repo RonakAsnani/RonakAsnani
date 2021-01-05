@@ -2,7 +2,7 @@
 
 
 
-## I'm a currently pursuing B.Tech. in Chemical Engineering at Sardar Vallabhbhai National Institute of Technology, Surat
+## I am currently pursuing B.Tech. in Chemical Engineering at Sardar Vallabhbhai National Institute of Technology, Surat
 
 
 - 🌱 I’m currently aiming to be a Full Stack Web Developer
