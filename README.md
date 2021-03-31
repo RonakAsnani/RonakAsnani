@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronakasnani&label=Profile%20views&color=0e75b6&style=flat" alt="ronakasnani" /> </p>
 
 
-- 🌱 I’m currently aiming to be a Full Stack Web Developer
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently aiming to be a competitive programmer.
+- 🥅 2021 Goals: Improve development skills and work on projects
 - ⚡ Fun fact: I love to play Videogames
 - 📫 How to reach me **ronakasnani5@gmail.com**
 
