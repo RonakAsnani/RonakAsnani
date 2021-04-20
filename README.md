@@ -47,7 +47,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/RonakAsnani/CareerGuide/pull/3) in [RonakAsnani/CareerGuide](https://github.com/RonakAsnani/CareerGuide)
+1. 🎉 Merged PR [#4](https://github.com/RonakAsnani/CareerGuide/pull/4) in [RonakAsnani/CareerGuide](https://github.com/RonakAsnani/CareerGuide)
 <!--END_SECTION:activity-->
 
 </details>
