@@ -33,24 +33,28 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="RonakAsnani's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=RonakAsnani&show_icons=true&hide_border=true" />
+  
 
-</details>
+
+
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronakasnani&show_icons=true&locale=en" alt="ronakasnani" /></p>
+
 
 ---
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronakasnani&" alt="ronakasnani" /></p>
+
+
+---
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronakasnani&show_icons=true&locale=en&layout=compact" alt="ronakasnani" /></p>
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/P-star-art/CHES/pull/1) in [P-star-art/CHES](https://github.com/P-star-art/CHES)
-<!--END_SECTION:activity-->
 
-</details>
 
 [youtube]: https://youtu.be/_dh2rAre9ew
 [instagram]: https://instagram.com/__ronak.18?igshid=1fap5j73wublf
