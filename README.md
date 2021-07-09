@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Ronak Asnani</h1>
-<h3 align="center">I am currently pursuing B.Tech. in Chemical Engineering at Sardar Vallabhbhai National Institute of Technology, Surat</h3>
+<h3 align="center">I am a pre-final year Chemical Engineering student at Sardar Vallabhbhai National Institute of Technology, Surat</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronakasnani&label=Profile%20views&color=0e75b6&style=flat" alt="ronakasnani" /> </p>
 
