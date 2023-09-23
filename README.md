@@ -1,18 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Ronak Asnani</h1>
-<h3 align="center">I am a pre-final year Chemical Engineering student at Sardar Vallabhbhai National Institute of Technology, Surat</h3>
+<h3 align="center">I am a Software Development Engineer @Decimal Point Analytics, graduated from Nit Surat</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronakasnani&label=Profile%20views&color=0e75b6&style=flat" alt="ronakasnani" /> </p>
 
 
-- 🌱 I’m currently aiming to be a competitive programmer.
-- 🥅 2021 Goals: Improve development skills and work on projects
-- ⚡ Fun fact: I love to play Videogames
 - 📫 How to reach me **ronakasnani5@gmail.com**
 
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <a href="https://www.codechef.com/users/ronak_18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ronak_18" height="30" width="40" /></a>
